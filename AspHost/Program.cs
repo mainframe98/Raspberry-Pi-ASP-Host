@@ -17,5 +17,6 @@ namespace AspHost
                 Console.WriteLine("Press Enter to quit.");
                 Console.ReadKey();
             }
+        }
     }
 }
